@@ -1,2 +1,1 @@
-# -FRC-
-これは俺のFRCプロジェックットです。２９日６月２０１９年
+### Database Application for InspireNC Robotics
